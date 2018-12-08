@@ -25,3 +25,5 @@ nbdist/
 
 ### gradle ###
 .gradle
+
+out/
